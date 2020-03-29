@@ -6,6 +6,7 @@
 
 
 With this app you can
+
 -Add exercises to a previous workout plan.
 
 -Add new exercises to a new workout plan.
